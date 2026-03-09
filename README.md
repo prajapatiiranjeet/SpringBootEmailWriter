@@ -75,7 +75,7 @@ Browser extension that allows users to quickly generate emails directly from the
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/email-writer.git
+https://github.com/prajapatiiranjeet/SpringBootEmailWriter.git
 cd email-writer
 ```
 
